@@ -1,0 +1,8 @@
+#General
+Lexicon.txt
+
+#ChemDraw
+*.cdx
+
+#Mac OS X
+.DS_Store
